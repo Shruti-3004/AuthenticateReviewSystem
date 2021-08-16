@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'authentication',
     'rest_framework',
     'rest_framework_simplejwt',
-    'django_celery_results',
+    'django_celery_results'
 ]
 
 AUTH_USER_MODEL = 'authentication.CustomUser'
